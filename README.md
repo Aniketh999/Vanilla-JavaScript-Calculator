@@ -1,1 +1,1 @@
-A Simple jasascript calculator
+**A Simple jasascript calculator**
