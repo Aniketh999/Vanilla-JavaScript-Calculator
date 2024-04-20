@@ -31,14 +31,3 @@ We welcome contributions to this project. If you would like to contribute, pleas
 5. **Push your changes to your forked repository**
 6. **Submit a pull request**
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## Acknowledgments
-
-* [Simple calculator using HTML, CSS and JavaScript - GitHub](https://github.com/mbprabowo/simple-calculator)
-* [Simple JavaScript Calculator](https://www.freecodecamp.org/news/simple-javascript-calculator/)
-* [Simple JavaScript Calculator with HTML and CSS](https://www.codingnepalweb.com/simple-javascript-calculator-with-html-and-css/)
-
-Note: This README.md file is generated based on the search results and the provided information. It is not a real GitHub repository.
