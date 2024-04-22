@@ -22,7 +22,7 @@ Once you have opened the `index.html` file in your web browser, you can start us
 
 ## Contributing
 
-We welcome contributions to this project. If you would like to contribute, please follow these steps:
+We welcome contributions to this project. If you would like to contribute, please follow these steps  :
 
 1. **Fork the repository**
 2. **Create a new branch**
